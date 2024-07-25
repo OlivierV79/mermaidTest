@@ -1,6 +1,6 @@
 # mermaidTest
 
-```
+```mermaid
 
 ---
 title: Animal example
